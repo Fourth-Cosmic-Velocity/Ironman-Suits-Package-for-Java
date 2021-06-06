@@ -3,8 +3,10 @@ This is a Java package which have all information on Ironman suits and War Machi
 Java package which contains all Iron man and War Machine suits in Marvel Cinimatic Universe.
 Iron man suits classes contains variables and methods.
  
- Variables : int Mark_No : Stores Mark number of the suit
- String Base : Stores the base on which the suit designed
+Variables
+
+ 	     	 int Mark_No : Stores Mark number of the suit
+ 	     	 String Base : Stores the base on which the suit designed
              String Intro_Movie : Stores the debut movie
              String Movies : Stores the movies in which the suit made its appearance
              String Creators : Stores the name of creators/designers of the suit
@@ -35,7 +37,9 @@ Iron man suits classes contains variables and methods.
              String Reference : Stores  the reference of the suit
              String Image : Stores  the location of image of the suit
 			   
- Functions : int Mark_No : Returns Mark number of the suit
+Functions
+
+	     	 int Mark_No : Returns Mark number of the suit
              String Base : Returns the base on which the suit designed
              String Intro_Movie : Returns the debut movie
              String Movies : Returns the movies in which the suit made its appearance
@@ -67,7 +71,9 @@ Iron man suits classes contains variables and methods.
              String Reference : Returns  the reference of the suit
              String Image : Returns the location of image of the suit
 			   
-   Methods : void Print_Mark_No : Prints Mark number of the suit
+Methods
+
+		 void Print_Mark_No : Prints Mark number of the suit
              void Print_ Base : Prints the base on which the suit designed
              void Print_ Intro_Movie : Prints the debut movie
              void Print_ Movies : Prints the movies in which the suit made its appearance
@@ -99,15 +105,24 @@ Iron man suits classes contains variables and methods.
              void Print_ Reference : Prints  the reference of the suit
              void Print_ Image : Prints  the location of image of the suit
 			   
- * There are Subpackages:
+There are Subpackages:
+
                          basic : Includes Mark 1 to Mark 9
                          advanced : Includes Mark 10 to Mark 14
                          special : Includes Mark 15 to Mark 50, Mark 85
                          wm : Includes War Machine Mark 1 to War Machine Mark 7
-			   
+	
+	
 @author Fourth Cosmic Velocity
+
 @Version 1
+
 Used data from Fandom and Images from Pinterest.
+
 Fandom : https://ironman.fandom.com/wiki/Category:Cinematic_Armors
+
 Pinterest : https://in.pinterest.com/
-I only made this package from these data.
+
+I only made this package from data from these websites.
+
+LOVE YOU 3000!
