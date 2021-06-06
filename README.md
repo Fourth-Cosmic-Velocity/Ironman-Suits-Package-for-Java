@@ -5,7 +5,7 @@ Java package which contains all Iron man and War Machine suits in Marvel Cinimat
 
 Iron man suits classes contains variables and methods.
  
-Variables
+## Variables
 
  	     	 int Mark_No : Stores Mark number of the suit
  	     	 String Base : Stores the base on which the suit designed
@@ -39,7 +39,7 @@ Variables
              String Reference : Stores  the reference of the suit
              String Image : Stores  the location of image of the suit
 			   
-Functions
+## Functions
 
 	     	 int Mark_No : Returns Mark number of the suit
              String Base : Returns the base on which the suit designed
@@ -73,57 +73,57 @@ Functions
              String Reference : Returns  the reference of the suit
              String Image : Returns the location of image of the suit
 			   
-Methods
+## Methods
 
 		 void Print_Mark_No : Prints Mark number of the suit
-             void Print_ Base : Prints the base on which the suit designed
-             void Print_ Intro_Movie : Prints the debut movie
-             void Print_ Movies : Prints the movies in which the suit made its appearance
-             void Print_ Creators : Prints the name of creators/designers of the suit
-             void Print_ Users : Prints the name of the people who used the suit
-             void Print_ Code_Name : Prints the code name of the suit
-             void Print_ Place_of_Creation : Prints the name of place where the suit is created
-             void Print_ Armor_Class : Prints the class( not Java class) which the suit belongs to
-             void Print_ Type : Prints the name of the type of suit
-             void Print_ Colour : Prints the name of colours used in the suit
-             void Print_ Height : Prints the height of the suit
-             void Print_ Status : Prints the status of the suit whether it active or destroyed
-             void Print_ Power_Core : Prints the name of the arc reactor used in the suit
-             void Print_ Features : Prints the features of the suit 
-             void Print_ AI : Prints  the AI of the suit
-             void Print_ System : Prints  the system of the suit
-             void Print_ Weapons : Prints  the weapons of the suit
-             void Print_ Composition : Prints  the composition of the suit
-             void Print_ Capabilities : Prints  the capabilities of the suit
-             void Print_ Special_Features : Prints  the special features of the suit
-             void Print_ Predecessor : Prints  the predecessor of the suit
-             void Print_ Successor : Prints  the successor of the suit
-             void Print_ Preceded_By : Prints the suit designed before the current suit
-             void Print_ Followed_By : Prints the suit designed after the current suit
-             void Print_ Year_of_Introduction : Prints  the year of introduction of the suit
-             void Print_ Year_of_Destruction : Prints  the year of destruction of the suit
-             void Print_ UseCase : Prints  the events in which the suit is used
-             void Print_ End : Prints  the end of the suit
-             void Print_ Reference : Prints  the reference of the suit
-             void Print_ Image : Prints  the location of image of the suit
+             void Print_Base : Prints the base on which the suit designed
+             void Print_Intro_Movie : Prints the debut movie
+             void Print_Movies : Prints the movies in which the suit made its appearance
+             void Print_Creators : Prints the name of creators/designers of the suit
+             void Print_Users : Prints the name of the people who used the suit
+             void Print_Code_Name : Prints the code name of the suit
+             void Print_Place_of_Creation : Prints the name of place where the suit is created
+             void Print_Armor_Class : Prints the class( not Java class) which the suit belongs to
+             void Print_Type : Prints the name of the type of suit
+             void Print_Colour : Prints the name of colours used in the suit
+             void Print_Height : Prints the height of the suit
+             void Print_Status : Prints the status of the suit whether it active or destroyed
+             void Print_Power_Core : Prints the name of the arc reactor used in the suit
+             void Print_Features : Prints the features of the suit 
+             void Print_AI : Prints  the AI of the suit
+             void Print_System : Prints  the system of the suit
+             void Print_Weapons : Prints  the weapons of the suit
+             void Print_Composition : Prints  the composition of the suit
+             void Print_Capabilities : Prints  the capabilities of the suit
+             void Print_Special_Features : Prints  the special features of the suit
+             void Print_Predecessor : Prints  the predecessor of the suit
+             void Print_Successor : Prints  the successor of the suit
+             void Print_Preceded_By : Prints the suit designed before the current suit
+             void Print_Followed_By : Prints the suit designed after the current suit
+             void Print_Year_of_Introduction : Prints  the year of introduction of the suit
+             void Print_Year_of_Destruction : Prints  the year of destruction of the suit
+             void Print_UseCase : Prints  the events in which the suit is used
+             void Print_End : Prints  the end of the suit
+             void Print_Reference : Prints  the reference of the suit
+             void Print_Image : Prints  the location of image of the suit
 			   
-There are Subpackages:
+## Subpackages:
 
-                         basic : Includes Mark 1 to Mark 9
-                         advanced : Includes Mark 10 to Mark 14
-                         special : Includes Mark 15 to Mark 50, Mark 85
-                         wm : Includes War Machine Mark 1 to War Machine Mark 7
+             basic : Includes Mark 1 to Mark 9
+             advanced : Includes Mark 10 to Mark 14
+             special : Includes Mark 15 to Mark 50, Mark 85
+             wm : Includes War Machine Mark 1 to War Machine Mark 7
 	
 	
-@author Fourth Cosmic Velocity
-
-@Version 1
+# References
 
 Used data from Fandom and Images from Pinterest.
 
 Fandom : https://ironman.fandom.com/wiki/Category:Cinematic_Armors
 
 Pinterest : https://in.pinterest.com/
+
+# Note
 
 I only made this package from data from these websites.
 
