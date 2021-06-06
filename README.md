@@ -1,6 +1,8 @@
 # Ironman-Suits-Package-for-Java
-This is a Java package which have all information on Ironman suits and War Machine suits and Iron Legion
+This is a Java package which have all information on Ironman suits and War Machine suits and Iron Legion.
+
 Java package which contains all Iron man and War Machine suits in Marvel Cinimatic Universe.
+
 Iron man suits classes contains variables and methods.
  
 Variables
