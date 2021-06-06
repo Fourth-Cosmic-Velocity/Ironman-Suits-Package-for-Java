@@ -96,10 +96,16 @@
 			   void Print_ UseCase : Prints  the events in which the suit is used
 			   void Print_ End : Prints  the end of the suit
 			   void Print_ Reference : Prints  the reference of the suit
-			   void Print_ Image : Prints  the location of image of the suit
+			   void Print_ Image : Prints  the location of image of the suit S
+			   
+ * There are Subpackages. 
+                         basic : Includes Mark 1 to Mark 9
+			 advanced : Includes Mark 10 to Mark 14
+			 special : Includes Mark 15 to Mark 50, Mark 85
+			 wm : Includes War Machine Mark 1 to War Machine Mark 7
 			   
  * @author Fourth Cosmic Velocity
- * @ Version 1
+ * @Version 1
  *  Used data from Fandom and Images from Pinterest.
  *  Fandom : https://ironman.fandom.com/wiki/Category:Cinematic_Armors
  *  Pinterest : https://in.pinterest.com/
