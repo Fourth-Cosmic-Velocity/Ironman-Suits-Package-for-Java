@@ -4,7 +4,7 @@ Java package which contains all Iron man and War Machine suits in Marvel Cinimat
 Iron man suits classes contains variables and methods.
  
  Variables : int Mark_No : Stores Mark number of the suit
-             String Base : Stores the base on which the suit designed
+ String Base : Stores the base on which the suit designed
              String Intro_Movie : Stores the debut movie
              String Movies : Stores the movies in which the suit made its appearance
              String Creators : Stores the name of creators/designers of the suit
