@@ -4,7 +4,30 @@ This is a Java package which have all information on Ironman suits and War Machi
 Java package which contains all Iron man and War Machine suits in Marvel Cinimatic Universe.
 
 Iron man suits classes contains variables and methods.
- 
+
+## Import Package
+	     import ims;
+## Subpackages
+	     import ims.*;
+basic
+Includes Mark 1 to Mark 9
+				
+	     import ims.basic;
+	     
+advanced
+Includes Mark 10 to Mark 14
+
+	     import ims.advanced;
+special
+Includes Mark 15 to Mark 50, Mark 85
+
+	     import ims.special;
+wm
+Includes War Machine Mark 1 to War Machine Mark 7
+
+	     import ims.wm;
+
+
 ## Variables
 
  	     	 int Mark_No : Stores Mark number of the suit
@@ -107,14 +130,6 @@ Iron man suits classes contains variables and methods.
              void Print_Reference : Prints  the reference of the suit
              void Print_Image : Prints  the location of image of the suit
 			   
-## Subpackages:
-
-             basic : Includes Mark 1 to Mark 9
-             advanced : Includes Mark 10 to Mark 14
-             special : Includes Mark 15 to Mark 50, Mark 85
-             wm : Includes War Machine Mark 1 to War Machine Mark 7
-	
-	
 # References
 
 Used data from Fandom and Images from Pinterest.
