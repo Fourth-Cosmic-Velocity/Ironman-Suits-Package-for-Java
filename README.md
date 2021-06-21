@@ -9,20 +9,20 @@ Iron man suits classes contains variables and methods.
 	     import ims;
 ## Subpackages
 	     import ims.*;
-basic
+### Basic Suits
 Includes Mark 1 to Mark 9
 				
 	     import ims.basic;
 	     
-advanced
+### Advanced Suits
 Includes Mark 10 to Mark 14
 
 	     import ims.advanced;
-special
+### Special Suits
 Includes Mark 15 to Mark 50, Mark 85
 
 	     import ims.special;
-wm
+### War Machine Suits
 Includes War Machine Mark 1 to War Machine Mark 7
 
 	     import ims.wm;
