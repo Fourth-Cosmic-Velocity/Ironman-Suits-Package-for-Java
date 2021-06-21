@@ -26,7 +26,10 @@ Includes Mark 15 to Mark 50, Mark 85
 Includes War Machine Mark 1 to War Machine Mark 7
 
 	     import ims.wm;
+### Iron Legion Drones
+Includes Iron Legion Armour Drones
 
+	     import ims.drones;
 
 ## Variables
 
